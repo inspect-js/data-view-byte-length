@@ -1,0 +1,33 @@
+{
+	"name": "data-view-byte-length",
+	"version": "0.0.0",
+	"description": "Get the byteLength out of a DataView, robustly.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/data-view-byte-length.git"
+	},
+	"keywords": [
+		"dataview",
+		"data",
+		"view",
+		"byte",
+		"length",
+		"bytelength",
+		"javascript",
+		"ecmascript"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/data-view-byte-length/issues"
+	},
+	"homepage": "https://github.com/ljharb/data-view-byte-length#readme"
+}
