@@ -24,11 +24,11 @@
 		"postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
 	},
 	"funding": {
-		"url": "https://github.com/sponsors/ljharb"
+		"url": "https://github.com/sponsors/inspect-js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ljharb/data-view-byte-length.git"
+		"url": "git+https://github.com/inspect-js/data-view-byte-length.git"
 	},
 	"keywords": [
 		"javascript",
@@ -44,9 +44,9 @@
 	"author": "Jordan Harband <ljharb@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ljharb/data-view-byte-length/issues"
+		"url": "https://github.com/inspect-js/data-view-byte-length/issues"
 	},
-	"homepage": "https://github.com/ljharb/data-view-byte-length#readme",
+	"homepage": "https://github.com/inspect-js/data-view-byte-length#readme",
 	"dependencies": {
 		"call-bind": "^1.0.7",
 		"es-errors": "^1.3.0",
