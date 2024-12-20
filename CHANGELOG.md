@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/inspect-js/data-view-byte-length/compare/v1.0.1...v1.0.2) - 2024-12-19
+
+### Commits
+
+- [readme] update URLs [`79df46c`](https://github.com/inspect-js/data-view-byte-length/commit/79df46cdf4c551d83059335ace8b8550369710b0)
+- [actions] split out node 10-20, and 20+ [`2890929`](https://github.com/inspect-js/data-view-byte-length/commit/289092965343dfa6fcc931c32ecd1c1286f5f2dc)
+- [Dev Deps] update `@arethetypeswrong/cli`, `@ljharb/eslint-config`, `@ljharb/tsconfig`, `@types/object-inspect`, `@types/tape`, `auto-changelog`, `es-value-fixtures`, `object-inspect`, `tape` [`97fac7f`](https://github.com/inspect-js/data-view-byte-length/commit/97fac7fb6c2f3655c9755d9dcf3569cdf6899635)
+- [Refactor] use `call-bound` directly [`56f17fa`](https://github.com/inspect-js/data-view-byte-length/commit/56f17fa583a963c2a6d2da5f2db00f7725714533)
+- [Deps] update `call-bind`, `is-data-view` [`254a502`](https://github.com/inspect-js/data-view-byte-length/commit/254a5026c0201eb35d20722af2993e0412b2f2ea)
+- [Tests] replace `aud` with `npm audit` [`7158679`](https://github.com/inspect-js/data-view-byte-length/commit/7158679d1ef0e15ccf64b6d0169413ed8351f243)
+- [Dev Deps] update `@ljharb/tsconfig` [`ed63290`](https://github.com/inspect-js/data-view-byte-length/commit/ed63290bc162fe5a9086412fc6099dd49c70d474)
+
 ## [v1.0.1](https://github.com/inspect-js/data-view-byte-length/compare/v1.0.0...v1.0.1) - 2024-03-08
 
 ### Commits
